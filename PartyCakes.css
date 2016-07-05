@@ -1,0 +1,37 @@
+.thumbnail img{
+	width:545px;
+	height: 545px;
+
+}
+
+body{
+	background-image: url("http://cdn1.theodysseyonline.com/files/2015/11/17/635833927466641781463892900_Birthday-Candles-Wallpaper-HD.jpg");
+	background-position: center;
+	background-size: cover;
+	padding-top: 70px;
+}
+
+a{
+	font-family: 'Cardo', serif;
+	/* font-family: 'Bad Script', cursive;*/
+	font-size: 22px;
+}
+
+.navbar-brand{
+	font-weight: 700;
+	font-size: 24px;
+}
+
+.navbar-default{
+	background-color: #ca9116;
+}
+
+.navbar-default .navbar-brand{
+	color:#811313;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color:#811313;
+}

@@ -1,0 +1,60 @@
+/*NavBar
+Cakes(dropdown) - Party Cakes, Wedding Cakes, Holiday Cakes
+Pies
+Cookies
+Candy Apples
+Brownies
+
+Photos (https://images.unsplash.com/photo-1456699596497-9dc2f20aa2dc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=d72e981a528ac42781728741d513b9f8)
+Photos (https://images.unsplash.com/photo-1452167272028-ad1f1ecdb224?crop=entropy&fit=crop&fm=jpg&h=925&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1925)
+
+Twitter:https://twitter.com/ohmygoodees;
+Offer Up:<img width="115" height="37" class="block" alt="OfferUp" src="https://d2fa3j67sd1nwo.cloudfront.net/images/logo.2adc57d683eb.svg">
+FaceBook: <img title="Follow Us on Facebook" alt="Follow Us on Facebook" src="http://www.henrisbakery.com/wp-content/plugins/social-media-widget/images/default/32/facebook.png" width="32" height="32">;
+*/
+html{
+	height: 100%;
+}
+
+img{
+	margin-left: 15%;
+	margin-top: 10%;
+}
+
+
+}
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 8em;
+	color: white;
+}
+
+h3{
+	color: white;
+}
+
+a{
+	font-family: 'Cardo', serif;
+	/* font-family: 'Bad Script', cursive;*/
+	font-size: 22px;
+ }
+
+.navbar-default{
+	background-color: #ca9116;
+}
+
+.navbar-default .navbar-brand{
+	color:#811313;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color:#811313;
+}
